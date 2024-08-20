@@ -1,4 +1,4 @@
-name: "Podcast Gen"
+name: "Podcast Gen by WF"
 author: "Wiras Fernando"
 description: "Generates a feed for a podcast from a YAML file"
 runs:
